@@ -4,4 +4,4 @@ time="2024-04-14T10:16:03.024Z" level=error msg="Failed to process webhook reque
 2024-04-14T10:16:03.024841160Z time="2024-04-14T10:16:03.024Z" level=info duration=14.124504ms method=POST path=/api/v1/events/argo-workflows/mt-wf-tmple size=48 status=403
 
 time="2024-04-14T10:25:20.617Z" level=error msg="Failed to process webhook request" error="failed to get service account \"github.com\": serviceaccounts \"github.com\" is forbidden: User \"system:servicteaccoun:argo-workflows:argo-workflows-server\" cannot get resource \"serviceaccounts\" in API group \"\" in the namespace \"argo-workflows\""
-ssssssssssssss
+sssssssssssssssss
